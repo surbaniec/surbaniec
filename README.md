@@ -1,7 +1,7 @@
 ## Hello there!
 I'm Sebastian Urbaniec
 
-🌱  Currently learning React and C#
+🌱  Currently learning TypeScript, React and Wordpress
 ### :point_down: Tech Stack 
 * :boom: HTML
 * :boom: CSS | SCSS
