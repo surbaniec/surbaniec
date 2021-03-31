@@ -1,5 +1,5 @@
 ## Hello there!
-I'm Sebastian Urbaniec
+I'm Sebastian Urbaniec and I'm interested in creating websites.
 
 🌱  Currently learning TypeScript, React and Wordpress
 ### :point_down: Tech Stack 
