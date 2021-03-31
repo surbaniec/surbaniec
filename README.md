@@ -3,7 +3,7 @@ I'm Sebastian Urbaniec
 
 🌱  Currently learning TypeScript, React and Wordpress
 ### :point_down: Tech Stack 
-* :boom: HTML
+* :boom: HTML (BEM methodology)
 * :boom: CSS | SCSS
 * :boom: JavaScript
 * :boom: Gulp
