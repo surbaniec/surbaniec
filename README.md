@@ -1,7 +1,7 @@
 ## Hello there!
 I'm Sebastian Urbaniec and I'm interested in creating websites.
 
-🌱  Currently learning TypeScript, React and Wordpress
+🌱  Currently learning TypeScript and React
 ### :point_down: Tech Stack 
 * :boom: HTML (BEM methodology)
 * :boom: CSS | SCSS
