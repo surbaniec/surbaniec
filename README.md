@@ -1,5 +1,6 @@
 ## Hello there!
 I'm Sebastian Urbaniec and I'm interested in new technologies and creating websites.
+
 In my leisure time I love to code, read books and work out at the gym.
 
 🌱  Currently delving into the world of Wordpress and developing skills in React.js
