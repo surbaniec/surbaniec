@@ -8,7 +8,7 @@ In my leisure time I love to code, read books and work out at the gym.
 * :boom: HTML (BEM methodology)
 * :boom: CSS | SCSS
 * :boom: JavaScript
-* :boom: React
+* :boom: React.js
 * :boom: Git
 * :boom: npm
 
