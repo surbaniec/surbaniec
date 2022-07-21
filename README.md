@@ -9,7 +9,6 @@ In my leisure time I love to code, read books and work out at the gym.
 * :boom: CSS | SCSS
 * :boom: JavaScript
 * :boom: React
-* :boom: Gulp
 * :boom: Git
 * :boom: npm
 
