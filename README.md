@@ -3,7 +3,7 @@ I'm Sebastian Urbaniec and I'm interested in new technologies and creating websi
 
 In my leisure time I love to code, read books and work out at the gym.
 
-🌱  Currently delving into the world of Wordpress and developing skills in React.js
+🌱  Currentlyvdeveloping skills in React.js
 ### :point_down: Tech Stack 
 * :boom: HTML (BEM methodology)
 * :boom: CSS | SCSS
