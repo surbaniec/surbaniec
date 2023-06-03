@@ -1,13 +1,14 @@
 ## Hello there!
-I'm Sebastian Urbaniec and I'm interested in creating websites and applications.
-
+I am self-taught wannabe frontend developer.
 In my leisure time I love to code, read books and work out at the gym.
 
-🌱  Currently developing skills in React.js and NextJS
+Please check out my repos. I am currently developing my app named Faktorio
+with NextJS 13, MongoDB, Tailwindcss, Next-Auth and many more.
 
 ### :point_down: Tech Stack 
 * :boom: HTML (BEM methodology)
 * :boom: CSS | SCSS
+* :boom: Tailwindcss
 * :boom: JavaScript
 * :boom: React.js
 * :boom: NextJS
