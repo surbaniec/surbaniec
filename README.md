@@ -1,9 +1,6 @@
 ## Hello there!
-I am self-taught wannabe frontend developer.
-In my leisure time I love to code, read books and work out at the gym.
-
-Please check out my repos. I am currently developing my app named Faktorio
-with NextJS 13, MongoDB, Tailwindcss, Next-Auth and many more.
+I am a junior SEO specialist who likes some coding after hours of optimizing clients' websites.
+In addition to doing SEO professionally, I would also like to start a career as a front-end developer.
 
 ### :point_down: Tech Stack 
 * :boom: HTML (BEM methodology)
