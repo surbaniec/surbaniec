@@ -1,6 +1,6 @@
 ## Hello there!
-I am a junior SEO specialist who likes some frontend coding after hours of optimizing clients' websites.
-In addition to doing SEO professionally, I would also like to start a career as a front-end developer.
+I am a junior SEO specialist but my goal is to start new path
+as a frontend dev.
 
 ### :point_down: Tech Stack 
 * :boom: HTML (BEM methodology)
