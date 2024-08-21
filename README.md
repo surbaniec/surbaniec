@@ -1,7 +1,4 @@
 ## Hello there!
-I am a junior SEO specialist but my goal is to start new path
-as a frontend dev.
-
 ### :point_down: Tech Stack 
 * :boom: HTML (BEM methodology)
 * :boom: CSS | SCSS
