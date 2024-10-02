@@ -2,12 +2,14 @@
 ### :point_down: Tech Stack 
 * :boom: HTML (BEM methodology)
 * :boom: CSS | SCSS
-* :boom: Tailwindcss
+* :boom: Tailwind CSS
 * :boom: JavaScript
+* :boom: TypeScript
 * :boom: React.js
-* :boom: NextJS
-* :boom: Git
+* :boom: Next.js
+* :boom: git
 * :boom: npm
+* :boom: WordPress
 
 ### 📫 Get in touch
 * [LinkedIn](https://www.linkedin.com/in/sebastian-urbaniec/)
